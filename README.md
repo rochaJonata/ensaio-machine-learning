@@ -1,3 +1,8 @@
+<div align="center">
+  
+![Machine Learning](logo.jpg)
+</div>
+
 # Machine Learning Essay
 
 ## Description
