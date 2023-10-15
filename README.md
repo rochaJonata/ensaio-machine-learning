@@ -1,6 +1,6 @@
 <div align="center">
   
-![Machine Learning](logo.jpg)
+![Machine Learning](img/logo.jpg)
 </div>
 
 # Machine Learning Essay
